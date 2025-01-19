@@ -3,12 +3,9 @@ import CarDetails from "./CarDetails";
 
 function CarCols({ searchTerm, cars, showPremium }) {
     const carResults = cars.filter((car) => {
-        // Filter by search term
         if (car.title.toLowerCase().indexOf(searchTerm.toLowerCase()) === -1) {
             return false;
         }
-
-        // Filter by premium checkbox
         if (showPremium && !car.isPremium) {
             return false;
         }

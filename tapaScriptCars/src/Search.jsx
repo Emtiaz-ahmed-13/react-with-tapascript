@@ -16,7 +16,7 @@ function Search({ searchTerm, onSearchCar, showPremium, onSetShowPremium }) {
             type="checkbox"
             id="premiumOnly"
             checked={showPremium}
-            onChange={(event) => onSetShowPremium(event.target.checked)} // Changed to correctly bind
+            onChange={(event) => onSetShowPremium(event.target.checked)}
             className="w-4 h-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500"
           />
           <label htmlFor="premiumOnly"> Show Premium Only</label>
@@ -30,7 +30,7 @@ Search.propTypes = {
   searchTerm: PropTypes.string.isRequired,
   onSearchCar: PropTypes.func.isRequired,
   showPremium: PropTypes.bool.isRequired,
-  onSetShowPremium: PropTypes.func.isRequired, // Prop type fixed
+  onSetShowPremium: PropTypes.func.isRequired,
 };
 
 export default Search;

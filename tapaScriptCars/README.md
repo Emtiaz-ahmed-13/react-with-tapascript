@@ -1,23 +1,28 @@
 # TapaScript Cars
 
-### Explain
+**TapaScript Cars** is a website showcasing some of the most luxurious and expensive cars in the world. The site features a logo, a search bar to find cars by name, and a list of sample cars with details such as the car's name, brand, year of production, and price. To run the project locally, clone the repository and install the required dependencies by running `yarn` in the project directory. Once dependencies are installed, you can start the development server using `yarn start`. 
 
-This is a car website. Where all the expensive and good cars in the world are presented. This site first uses a log and then a search bar is given which will help you find the car of your choice. Then some car samples are given where the name of the car, the brand of the car, how many years it was made and the price of the car are mentioned.
-![](https://i.ibb.co.com/T16H77h/Cartapa.png)
+The **Component Breakdown Diagram** provides insight into the structure of the site, illustrating the components used and their relationships.
 
-### How to run it
+ The **Component Hierarchy Diagram** helps visualize the data flow within the application, showing how each component is connected. These diagrams are useful for understanding the application’s architecture and its data flow. This project allows users to filter cars based on search terms and premium status, with a responsive and modern design suitable for various screen sizes. You can clone the project, modify it, and build upon it to create a customized car listing site.
 
-If you want to use it for your needs, you can clone these files to your machine and customize them as you wish. After cloning it, you will need to install all the node packages. You will need to install the node packages using the `yarn` command.
+![Website Preview](https://i.ibb.co.com/T16H77h/Cartapa.png)
 
-### Component Breakdown diagram
+## How to Run It
 
-![](https://i.ibb.co.com/kQpjH6w/Screenshot-2025-01-19-at-12-04-53-PM.png)
-How many components are there in this project? Here is a diagram. If you look closely, you will see what components are there in this project and what are the names of the components. This diagram clearly explains where each component is used.
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run `yarn` to install the necessary dependencies.
+4. Start the development server with `yarn start`.
 
-### Component Hierarchy diagram
+## Component Breakdown Diagram
 
-![](https://i.ibb.co.com/74hN7Wk/Screenshot-2025-01-19-at-12-19-14-PM.png)
+![Component Breakdown](https://i.ibb.co.com/kQpjH6w/Screenshot-2025-01-19-at-12-04-53-PM.png)
 
-Looking at the image below, you can understand which component is used by whom. This image helps you understand the data flow of this project.
+## Component Hierarchy Diagram
 
----
+![Component Hierarchy](https://i.ibb.co.com/74hN7Wk/Screenshot-2025-01-19-at-12-19-14-PM.png)
+
+
+## live link
+![Live Link](https://tapa-script-cars.vercel.app/)

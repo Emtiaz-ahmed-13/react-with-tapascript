@@ -49,7 +49,7 @@ const Cars = [
 function TapaScriptCars() {
 
   const [searchTerm, setSearchTerm] = useState("");
-  const [showPremium, setShowPremium] = useState(false); // Changed this to boolean
+  const [showPremium, setShowPremium] = useState(false);
 
   return (
     <div className="p-7 bg-slate-100 min-h-screen">
@@ -58,7 +58,7 @@ function TapaScriptCars() {
         searchTerm={searchTerm}
         onSearchCar={setSearchTerm}
         showPremium={showPremium}
-        onSetShowPremium={setShowPremium} // Passed correctly
+        onSetShowPremium={setShowPremium}
       />
       <CarsCol
         searchTerm={searchTerm}

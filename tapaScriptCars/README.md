@@ -11,12 +11,12 @@ If you want to use it for your needs, you can clone these files to your machine 
 
 ### Component Breakdown diagram
 
-![](https://ibb.co.com/gdL7ZpW)
+![](https://i.ibb.co.com/kQpjH6w/Screenshot-2025-01-19-at-12-04-53-PM.png)
 How many components are there in this project? Here is a diagram. If you look closely, you will see what components are there in this project and what are the names of the components. This diagram clearly explains where each component is used.
 
 ### Component Hierarchy diagram
 
-![](https://ibb.co.com/7t354F7)
+![](https://i.ibb.co.com/74hN7Wk/Screenshot-2025-01-19-at-12-19-14-PM.png)
 
 Looking at the image below, you can understand which component is used by whom. This image helps you understand the data flow of this project.
 

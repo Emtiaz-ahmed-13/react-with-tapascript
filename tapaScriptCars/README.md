@@ -3,7 +3,7 @@
 ### Explain
 
 This is a car website. Where all the expensive and good cars in the world are presented. This site first uses a log and then a search bar is given which will help you find the car of your choice. Then some car samples are given where the name of the car, the brand of the car, how many years it was made and the price of the car are mentioned.
-![](./public/screencapture-localhost-5173-2025-01-15-00_10_37.png)
+![](https://i.ibb.co.com/T16H77h/Cartapa.png)
 
 ### How to run it
 

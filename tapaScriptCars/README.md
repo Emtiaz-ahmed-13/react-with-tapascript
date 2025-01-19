@@ -1,15 +1,23 @@
-# **TapaScript Cars**
+# TapaScript Cars
 
-A modern web application to explore and filter premium cars, built with React and Tailwind CSS for a clean and responsive design.
+### Explain
 
-To run the project locally, 
+This is a car website. Where all the expensive and good cars in the world are presented. This site first uses a log and then a search bar is given which will help you find the car of your choice. Then some car samples are given where the name of the car, the brand of the car, how many years it was made and the price of the car are mentioned.
+![](./public/screencapture-localhost-5173-2025-01-15-00_10_37.png)
 
-## clone the repository using `git clone https://github.com/Emtiaz-ahmed-13/react-with-tapascript/tree/main/tapaScriptCars`
+### How to run it
 
-## navigate to the project directory `cd tapaScriptCars`, 
+If you want to use it for your needs, you can clone these files to your machine and customize them as you wish. After cloning it, you will need to install all the node packages. You will need to install the node packages using the `yarn` command.
 
-## install the required dependencies using `npm install` or `yarn install`, 
+### Component Breakdown diagram
 
-And start  with `npm run dev` or `yarn dev`. Once the server is running, open your browser and navigate to [http://localhost:5173](http://localhost:5173).
+![](https://ibb.co.com/gdL7ZpW)
+How many components are there in this project? Here is a diagram. If you look closely, you will see what components are there in this project and what are the names of the components. This diagram clearly explains where each component is used.
 
-👉 [Live Link](https://tapa-script-cars.vercel.app/)
+### Component Hierarchy diagram
+
+![](https://ibb.co.com/7t354F7)
+
+Looking at the image below, you can understand which component is used by whom. This image helps you understand the data flow of this project.
+
+---
